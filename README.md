@@ -1,2 +1,2 @@
-# If the https://hidemy.name site is blocked the mirror is here
+# Если сайт hidemy.name заблокировали, то рабочее зеркало по ссылке https://hidemyname.online/
 Если сайт hidemy.name заблокирован, зеркало тут - https://hidemyname.online/
